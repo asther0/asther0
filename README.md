@@ -1,12 +1,12 @@
 # Jhomar Astuyauri
 
-I ship internal tools and automate workflows. Technical background, product mindset.
+I ship internal tools and automate workflows. Technical background, product mindset
 
 Currently building internal tools at [Ticketmaster](https://www.linkedin.com/company/ticketmaster/posts/?feedView=all) LATAM 🎫
 
 ### What I've Built
 
-- **Ticketmaster LATAM (Product Builder):** Transformed chaotic event operations into a scalable automation system for 4 LATAM markets. 30K+ registrations processed, 85% of manual work eliminated. 
+- **Ticketmaster LATAM (Product Builder):** Transformed chaotic event operations into a scalable automation system for 4 LATAM markets. 30K+ registrations processed, 85% of manual work eliminated
 
 - **Edullka (Founder):** EdTech & Software Studio. Labs delivered 20+ client tech projects. Academy with 300+ students across LATAM
 
@@ -16,7 +16,7 @@ Lima with 25% fuel savings. 10K+ deliveries, 10+ drivers. Paused for growth oppo
 - **Hackathons:** 4x 🏆, 1x 🥈, 2x 🥉
 
 ### Side projects
-Building in parallel: browser extensions, whatsApp automations, hackathon MVPs and fun experiments. 
+Building in parallel: browser extensions, whatsApp automations, hackathon MVPs and fun experiments
 
 Some built before AI could help 🦖
 
