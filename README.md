@@ -13,7 +13,7 @@ Currently building internal tools at [Ticketmaster](https://www.linkedin.com/com
 - **Dale Delivery (Co-founder):** Last-mile logistics startup. Built operations platform that cut order processing by 70% and optimized delivery routes across 
 Lima with 25% fuel savings. 10K+ deliveries, 10+ drivers. Paused for growth opportunity
 
-- **Hackathons:** **7** hackathon wins (4x 🏆, 1x 🥈, 2x 🥉)
+- **Hackathons:** **7** wins (4x 🏆, 1x 🥈, 2x 🥉)
 
 ### Side projects
 Building in parallel: browser extensions, whatsApp automations, hackathon MVPs and fun experiments.
