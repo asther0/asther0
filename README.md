@@ -16,7 +16,7 @@ Lima with 25% fuel savings. 10K+ deliveries, 10+ drivers. Paused for growth oppo
 - **Hackathons:** 4x 🏆, 1x 🥈, 2x 🥉
 
 ### Side projects
-Building in parallel: browser extensions, whatsApp automations, hackathon MVPs and fun experiments.
+Building in parallel: browser extensions, whatsApp automations, hackathon MVPs and fun experiments. 
 Some built before AI could help 🦖
 
 ### Links
