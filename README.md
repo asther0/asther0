@@ -19,6 +19,3 @@ Lima with 25% fuel savings. 10K+ deliveries, 10+ drivers. Paused for growth oppo
 Building in parallel: browser extensions, whatsApp automations, hackathon MVPs and fun experiments
 
 Some built before AI could help 🦖
-
-### Links
-[Portfolio](URL) / [LinkedIn](https://www.linkedin.com/in/jhomar-astuyauri/) 
