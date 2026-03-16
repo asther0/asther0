@@ -1,5 +1,3 @@
-# Jhomar Astuyauri
-
 I ship internal tools and automate workflows. Technical background, product mindset
 
 Currently building internal tools at [Ticketmaster](https://www.linkedin.com/company/ticketmaster/posts/?feedView=all) LATAM 🎫
