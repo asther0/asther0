@@ -18,4 +18,4 @@ Building in parallel: browser extensions, whatsApp automations, hackathon MVPs a
 
 Some built before AI could help 🦖
 
-_ex-github: https://github.com/Jhomar1158-ux_
+_past github: https://github.com/Jhomar1158-ux_
