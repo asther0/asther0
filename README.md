@@ -6,7 +6,7 @@ Currently building internal tools at [Ticketmaster](https://www.linkedin.com/com
 
 - **Ticketmaster LATAM (Product Builder):** Transformed chaotic event operations into a scalable automation system for 4 LATAM markets. 30K+ registrations processed, 85% of manual work eliminated
 
-- **Edullka (Founder):** EdTech & Software Studio. Labs delivered 20+ client tech projects. Academy with 300+ students across LATAM
+- **26Labs (Founder):** EdTech & Software Studio. Labs delivered 20+ client tech projects. Academy with 300+ students across LATAM
 
 - **Dale Delivery (Co-founder):** Last-mile logistics startup. Built operations platform that cut order processing by 70% and optimized delivery routes across 
 Lima with 25% fuel savings. 10K+ deliveries, 10+ drivers. Paused for growth opportunity
